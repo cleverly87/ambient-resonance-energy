@@ -48,7 +48,13 @@ Feel free to submit issues, propose enhancements, or contribute directly via pul
 
 ## License
 
-This project is released under the MIT License. Please review our contribution guidelines and code of conduct when submitting any changes or feedback.
+This project is released under the **Apache License 2.0**. In addition to complying with the terms of this license, **any use, discussion, or distribution of this work must include full attribution and citation to the Ambient Resonance Energy project and its original contributors.** A suggested citation is:
+
+> "Ambient Resonance Energy project, [https://github.com/cleverly87/ambient-resonance-energy](https://github.com/cleverly87/ambient-resonance-energy)"
+
+By ensuring proper recognition and citation, we aim to both foster open collaboration and maintain the integrity of the original research and contributions.
+
+Please see the [LICENSE](LICENSE) file for further details.
 
 ## Contact
 
