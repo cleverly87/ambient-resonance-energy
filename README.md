@@ -1,3 +1,9 @@
+Started: 05/06/2025 - Activley uploading my content over the next few days 
+Expected first micro controller code upload: 06/06/2025
+Expected first test results: TBA 
+Expected images of prototype: 10/06/2025
+View Wiki for detail - Please be patient as I am one guy filtering through tonnes of research and pulling it together with a very open mind 
+
 # Ambient Resonance Energy
 
 Welcome to the **Ambient Resonance Energy** project repository. This project explores the theoretical and experimental potential of harnessing ambient energy from the Earth's natural electromagnetic fields—with a specific focus on the Schumann Resonance.
