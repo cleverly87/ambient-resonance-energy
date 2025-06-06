@@ -1,71 +1,110 @@
-Started: 05/06/2025 - Activley uploading my content over the next few days  
-Expected first micro controller code upload: 06/06/2025  
-Expected first test results: TBA   
+Started: 05/06/2025  
+Expected first microcontroller code upload: 06/06/2025  
+Expected first test results: TBA  
 Expected images of prototype: 10/06/2025  
-View Wiki for detail - Please be patient as I am one guy filtering through tonnes of research and pulling it together with a very open mind   
 
-# Ambient Resonance Energy
-
-Welcome to the **Ambient Resonance Energy** project repository. This project explores the theoretical and experimental potential of harnessing ambient energy from the Earth's natural electromagnetic fields—with a specific focus on the Schumann Resonance.
-
-## Overview
-
-The project delves into cutting-edge concepts inspired by:
-- **Schumann Resonance:** Discover how the Earth naturally resonates at approximately 7.83 Hz, creating persistent ELF (extremely low frequency) fields that form the basis for our energy source hypothesis.
-- **MEG Concepts:** Explore ideas based on Motionless Electromagnetic Generators (MEG) which utilize asymmetric magnetic cores and pulsed magnetic fields to potentially tap into ambient energy.
-
-Through both theoretical research and experimental design, our mission is to develop innovative approaches to capture energy from these natural phenomena.
-
-## Project Goals
-
-- **Theoretical Research:** Refine conceptual models for resonant circuits and tuned coil systems that interact with the Earth's electromagnetic field.
-- **Experimental Design:** Investigate materials, magnetic cores, and circuit configurations that enable ambient energy extraction.
-- **Hardware & Software Integration:** Provide code for microcontrollers and Bitscope instruments to control and monitor testing. This integration will ease experimental setups and enable precise data capture.
-- **Community Collaboration:** Build a collaborative environment for researchers, engineers, and enthusiasts to contribute ideas, experiments, and feedback.
-
-## Documentation
-
-For an in-depth look at our theoretical frameworks, experimental designs, and detailed research discussions, please visit our [Project Wiki](https://github.com/cleverly87/ambient-resonance-energy/wiki). The wiki provides extensive documentation on:
-- Schumann Resonance fundamentals  
-- MEG and resonance-based energy concepts  
-- Conceptual and experimental frameworks
-
-## Hardware and Software
-
-In upcoming releases, this repository will include:
-- **Microcontroller Code:** Firmware and libraries designed for controlling experimental setups and interfacing with sensors.
-- **Bitscope Code:** Tools and scripts to facilitate control and data acquisition from the Bitscope, ensuring accurate monitoring of the testing procedures.
-
-## Getting Started
-
-### Prerequisites
-
-- A solid understanding of electromagnetic theory and circuit design.
-- Experience with experimental prototyping, microcontrollers, and data acquisition systems is beneficial.
-
-### How to Contribute
-
-We welcome contributions from all interested parties:
-- **Researchers:** Help refine our models and suggest new theoretical perspectives.
-- **Engineers:** Provide insights on circuit design, microcontroller firmware, and testing methodologies.
-- **Enthusiasts:** Participate in experiments and share your findings.
-
-Feel free to submit issues, propose enhancements, or contribute directly via pull requests. Your input is invaluable in exploring and potentially validating these unconventional concepts.
-
-## License
-
-This project is released under the **Apache License 2.0**. In addition to complying with the terms of this license, **any use, discussion, or distribution of this work must include full attribution and citation to the Ambient Resonance Energy project and its original contributors.** A suggested citation is:
-
-> "Ambient Resonance Energy project, [https://github.com/cleverly87/ambient-resonance-energy](https://github.com/cleverly87/ambient-resonance-energy)"
-
-By ensuring proper recognition and citation, we aim to both foster open collaboration and maintain the integrity of the original research and contributions.
-
-Please see the [LICENSE](LICENSE) file for further details.
-
-## Contact
-
-For further discussion or inquiries, please open an issue on our [GitHub repository](https://github.com/cleverly87/ambient-resonance-energy/issues).
+View the [📘 Project Wiki](https://github.com/cleverly87/ambient-resonance-energy/wiki) for detailed schematics, build steps, and research notes.  
+⚠️ Please be patient — this is a solo research project consolidating vast information with an open mind.
 
 ---
 
-*Embark on this journey into the frontier of energy research and help unlock the secrets behind the Earth's natural harmonics.*
+# 🌍 Ambient Resonance Energy
+
+Welcome to the **Ambient Resonance Energy** project repository. This initiative explores the theoretical and experimental potential of capturing ambient energy from Earth’s electromagnetic field—centered on the **Schumann Resonance (7.83 Hz)**.
+
+---
+
+## 🧠 Overview
+
+This project is inspired by a blend of established science and unconventional ideas, including:
+
+- **Schumann Resonance:** The Earth's natural ELF (extremely low frequency) waveform at ~7.83 Hz.
+- **Motionless Electromagnetic Generator (MEG) concepts:** Investigating asymmetrical magnetic cores and pulsed magnetic excitation.
+- **LC Resonance & Energy Feedback Systems:** Designed to emulate and potentially amplify ambient energy behavior.
+
+Through theory, hands-on builds, and ongoing iteration, we aim to explore whether ambient energy systems can be constructed in practical and observable ways.
+
+---
+
+## 🎯 Project Goals
+
+- **📖 Theoretical Modeling** – Refine and document resonant coil, capacitor, and magnetic structures.
+- **🔧 Experimental Builds** – Construct and test resonant systems with tuned magnetic feedback.
+- **🧪 Instrument Integration** – Use microcontroller code and tools like Bitscope for controlled pulse driving and signal observation.
+- **🌐 Open Collaboration** – Build a space for like-minded engineers, makers, and researchers to exchange experiments and insights.
+
+---
+
+## 🧰 Repository Contents
+
+- `diagrams/` – Schematic images of each core subsystem:
+  - LC Tank Circuit
+  - 555 Timer Pulse Driver
+  - MOSFET Switching Circuit
+  - Toroid & Winding Layout
+  - Rectifier Output Stage
+  - Feedback System
+
+- `README.md` – Project overview
+- `LICENSE`, `CONTRIBUTING.md`, etc. – Open-source standards & contributor guidance
+
+### 📁 Coming Soon
+
+- `src/` – Microcontroller code for pulse generation and sensing
+- `build_logs/` – Real-world test logs, prototype photos, and circuit refinements
+- `wiki/` – Markdown backup of the GitHub wiki for offline use
+
+---
+
+## 🧭 Documentation
+
+See the [📘 Wiki](https://github.com/cleverly87/ambient-resonance-energy/wiki) for full detail:
+
+- 📐 Schematics with part lists and assembly instructions  
+- 🧩 Circuit operation theory & harmonic feedback explanation  
+- ⚙️ Design philosophy and open questions  
+- 📸 Prototype test logs (upcoming)
+
+---
+
+## 🛠️ Hardware & Software Integration
+
+This repo will include:
+- Microcontroller code to pulse 7.83 Hz signals via 555 timers and MOSFETs
+- Bitscope interface and signal capture tools
+- Optional feedback circuits for harmonic resonance reinforcement
+
+---
+
+## 👥 How to Contribute
+
+We welcome anyone interested in boundary-pushing science and engineering:
+
+- **Researchers** – Improve the physics models or identify overlooked principles  
+- **Engineers** – Suggest improved designs, components, or measurement techniques  
+- **Experimenters** – Build your own version and share the results
+
+Open an [issue](https://github.com/cleverly87/ambient-resonance-energy/issues) or submit a [pull request](https://github.com/cleverly87/ambient-resonance-energy/pulls) to get involved.
+
+---
+
+## ⚖️ License
+
+This project is licensed under the **Apache License 2.0**.  
+Proper attribution is required for any derivative or distribution.
+
+Suggested citation:
+
+> "**Ambient Resonance Energy Project**, [GitHub](https://github.com/cleverly87/ambient-resonance-energy)"
+
+Please see the [LICENSE](LICENSE) file for full details.
+
+---
+
+## 📬 Contact
+
+Have ideas or questions? Start a discussion or open an issue on GitHub.
+
+---
+
+*“Embark on a journey through the Earth’s hidden harmonics — experiment, learn, and unlock what nature has already built.”*
